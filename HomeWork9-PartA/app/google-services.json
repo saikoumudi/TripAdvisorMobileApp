@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "709742432208",
+    "firebase_url": "https://chatapp-cad83.firebaseio.com",
+    "project_id": "chatapp-cad83",
+    "storage_bucket": "chatapp-cad83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709742432208:android:e33fe260b62018cb",
+        "android_client_info": {
+          "package_name": "com.example.homework9_parta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709742432208-5ojs7lgshgqrmthubtc8c7ta5ut5b5mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homework9_parta",
+            "certificate_hash": "cd4be2b5226cab5e033576e67d6c8bd9855492ba"
+          }
+        },
+        {
+          "client_id": "709742432208-np7qlp0ibvplf9vq0ia65849n31cr608.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homework9_parta",
+            "certificate_hash": "339eebc3aad284d39611b318930b355492bc2cb4"
+          }
+        },
+        {
+          "client_id": "709742432208-ppqpup3747k24hicqs525uqn67bosfrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjEV1O7RXRUIGCmwRoWXiN-xOaOPimr54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709742432208-ppqpup3747k24hicqs525uqn67bosfrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
